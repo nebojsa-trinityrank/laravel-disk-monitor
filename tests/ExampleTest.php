@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace NebojsaTrinityrank\LaravelDiskMonitor\Tests;
 
 class ExampleTest extends TestCase
 {
